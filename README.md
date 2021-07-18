@@ -22,7 +22,7 @@ OBS: Dependendo do jogo ou da aplicação desejada deve ser realizado maiores ve
 
 2. O segundo passo é instanciar a classe **EcoController**.
 
-3. lembrese de editar o **sql.properties** para definir seus dados de conexão.
+3. Lembre-se de editar o **sql.properties** para definir seus dados de conexão.
   
 
 ## Métodos disponíveis
